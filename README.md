@@ -14,4 +14,4 @@ The purpose of this lab is to create procedures that
 
 2. Convert an ordinary number into a Church numeral.
 
-3. Implement arithemtic such as subtraction and multiplication on any Church numeral.
+3. Implement arithmetic such as subtraction and multiplication on any Church numeral.
